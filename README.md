@@ -1,6 +1,6 @@
 The Emperor's New Clothes
 ===========
-<img src ="https://github.com/ArledgeMike/Emperors-New-Clothes/blob/master/images/emporersnewclothes.png" />
+<img src ="https://raw.github.com/ArledgeMike/Emperors-New-Clothes/master/images/emporersnewclothes.png" />
 <h2>HTML5 Boilerplate Template<h2> <p>Version 1.01 - Two Buttons</P>
 
 <p>A HTML5 boilerplate template for starting simple HTML sites or Wordpress themes. Packed with Bootstrap Min 2.3.2 JS/CSS as well as Eric Meyer's RESET CSS. Also included is JQuery 1.9.1 min.</p>
