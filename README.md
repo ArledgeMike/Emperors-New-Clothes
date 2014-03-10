@@ -7,7 +7,15 @@ The Emperor's New Clothes
 
 <p>The Emporer's New Clothes have been tailored down to a shiek sports coat for the spring time.</p>
 
-<p>The tailored removed all php decorations as well as the humans and robots, to create a sleak simple sports coat for spring</p>i
+<p>The tailored removed all php decorations as well as the humans and robots, to create a sleak simple sports coat for spring</p>
+
+<ul>
+List of Resources
+<li><a href="http://html5boilerplate.com/">HTML5 Boilerplate</a></li>
+<li><a href="http://meyerweb.com/eric/tools/css/reset/">Eric Meyer Reset CSS</a></li>
+<li><a href="http://code.jquery.com/jquery-1.9.1.js">JQUERY 1.9.1</a></li>
+<li><a href="http://getbootstrap.com/2.3.2/">Bootstrap 2.3.2</a></li>
+</ul>
 
 
 
