@@ -30,4 +30,4 @@ exports.css = function(paths){
             ]
         }
     }
-});
+};
